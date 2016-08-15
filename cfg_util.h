@@ -17,6 +17,8 @@
 #ifndef _CFG_UTIL_H_
 #define _CFG_UTIL_H_
 
+#include <stdio.h>
+
 typedef int bool;
 
 #ifndef null
